@@ -2,7 +2,7 @@
 
 Short project description and purpose.
 
-![Project Image](path/to/your/Tulips.jpg)
+![Project Image](Tulips.jpg)
 
 ## Badges
 
